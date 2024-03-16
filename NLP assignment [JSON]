@@ -1,0 +1,37 @@
+{
+  "earnings_calls_analysis": [
+    {
+      "quarter": "Q1 FY24",
+      "speaker": "Speaker’s Name",
+      "sentiment": "Positive/Negative",
+      "statement": "Specific statement indicating sentiment.",
+      "financial_validation": {
+        "revenue_from_operations": "Revenue figure from Q1 FY24 financial document",
+        "comparison": "Increase/Decrease/No change",
+        "validation": "Sentiment is validated/not validated by the financial data"
+      }
+    },
+    {
+      "quarter": "Q2 FY24",
+      "speaker": "Speaker’s Name",
+      "sentiment": "Positive/Negative",
+      "statement": "Specific statement indicating sentiment.",
+      "financial_validation": {
+        "revenue_from_operations": "Revenue figure from Q2 FY24 financial document",
+        "comparison": "Increase/Decrease/No change",
+        "validation": "Sentiment is validated/not validated by the financial data"
+      }
+    },
+    {
+      "quarter": "Q3 FY24",
+      "speaker": "Speaker’s Name",
+      "sentiment": "Positive/Negative",
+      "statement": "Specific statement indicating sentiment.",
+      "financial_validation": {
+        "revenue_from_operations": "Revenue figure from Q3 FY24 financial document",
+        "comparison": "Increase/Decrease/No change",
+        "validation": "Sentiment is validated/not validated by the financial data"
+      }
+    }
+  ]
+}
